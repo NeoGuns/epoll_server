@@ -1,2 +1,2 @@
 # epoll_server
-epoll server based o B/S for jaychou
+epoll server based on B/S for jaychou
